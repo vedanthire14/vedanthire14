@@ -1,5 +1,5 @@
 <h3 align="center">
- Heyy there! Manan here! 👋
+ Heyy there! Vedant here! 👋
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 
 <h3 align="center">
-📱 Currently Learning App Development 
+📱 Currently Learning Deep Learning with Pytorch
 </h3>
 
 <h1 align="center">
@@ -17,10 +17,9 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manan-kabra-728a23222">
+<a href="https://www.linkedin.com/in/vedant-hire/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
- <a href="https://instagram.com/manan_.kabra?igshid=YmMyMTA2M2Y=">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
   </p>
@@ -52,7 +51,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MananKabra/count.svg" />
+  <img src="https://profile-counter.glitch.me/vedanthire14/count.svg" />
 </p>
 
 
@@ -66,10 +65,10 @@ GitHub Analytics
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MananKabra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manankabra&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vedanthire14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vedanthire14&layout=compact&langs_count=8&theme=algolia"/>
 <br>
 <br>
- <img src="https://streak-stats.demolab.com?user=MananKabra&theme=tokyonight&hide_border=true&border_radius=4.7" alt="MananKabra" width="50%"   />
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MananKabra&theme=2077" alt="MananKabra" width="50%"   />
+ <img src="https://streak-stats.demolab.com?user=vedanthire14&theme=tokyonight&hide_border=true&border_radius=4.7" alt="vedanthire14" width="50%"   />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedanthire14&theme=2077" alt="vedanthire14" width="50%"   />
 </div>
